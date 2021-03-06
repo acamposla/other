@@ -1,5 +1,5 @@
 def pow_2 (x):
-    return x**2
+    return 2**x
 
 
 for e in range(11):
